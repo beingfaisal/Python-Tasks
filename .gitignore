@@ -1,0 +1,7 @@
+practice/
+.idea/
+venv/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
